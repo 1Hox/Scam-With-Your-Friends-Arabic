@@ -2,7 +2,7 @@
 <h1>Scam With Your Friends — بالعربي</h1>
 <p>تعريب اللعبة وتطبيقاتها ومحتواها، مع أصوات عربية ودعم فهم العربية واللهجة الخليجية.</p>
 <a href="https://github.com/1Hox/Scam-With-Your-Friends-Arabic/releases/latest/download/Scam.Arabic.exe"><img src="download.svg" alt="تحميل النسخة العربية" width="300" /></a>
-<p>Windows 64-bit · الإصدار 1.0.0</p>
+<p>Windows 64-bit</p>
 </div>
 
 ## شغّلها بثلاث خطوات
