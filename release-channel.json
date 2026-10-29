@@ -1,8 +1,8 @@
 {
+  "bytes": 82912604,
   "schema": 1,
-  "maintenance": false,
-  "version": "1.0.6",
   "message": "",
-  "bytes": 82900316,
-  "sha256": "27C498127F73A6334A1E21E59FF2027B2A6A26F13C6421F1AFDCCFCF9E7EA222"
+  "sha256": "2131BB005C3E8DCDD84F7908AF13BEEF6382D84A6EF1B7EB3A92DDD53C343191",
+  "version": "1.0.7",
+  "maintenance": false
 }
